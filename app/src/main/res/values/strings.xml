@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="team_a_txtview">Team A</string>
+    <string name="team_a_txtv_counter">9</string>
+</resources>
